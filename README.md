@@ -50,7 +50,7 @@ cd random-quotes
 ## 3. Instale as dependências
 npm install
 
-## 5. Inicie o projeto
+## 4. Inicie o projeto
 npm run dev
 ```
 
